@@ -22,6 +22,7 @@ Version 1.0.0 Created by Evan Coury
 ## Introduction
 
 This is the personal vim config of Evan Coury (aka EvanDotPro).
+After trying it for some time (and adapted it to fit my tastes), I decided it was worth to fork and adapt.
 
 Author: Evan Coury, http://blog.evan.pro/
 URL: https://github.com/EvanDotPro/vim-configuration
