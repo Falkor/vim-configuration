@@ -139,8 +139,10 @@
     endif
 
     set backspace=indent,eol,start " backspace for dummies
+    set whichwrap=<,>,[,]          " authorize going to previous/next lines using left/right arrow
     set linespace=0                " no extra spaces between rows
     set number                     " line numbers on
+    set textwidth=0                " max width of the text (0=unlimited)
     set cpoptions+=$               " cool trick to show what you're replacing
     set showmatch                  " show matching brackets/parenthesis
     set showcmd                    " show multi-key commands as you type
