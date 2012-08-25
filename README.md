@@ -1,14 +1,13 @@
-# My Ultimate Vim Configuration
+# My Vim Configuration (so-called 'Ultimate' by Evan Coury)
 
-Version 1.0.0 Created by Evan Coury
+Based on the Ultimate Vim Configuration Version 1.0.0 created by Evan Coury
 
 ```
-  _____                ______      _  ______          _
- |  ___|               |  _  \    | | | ___ \        ( )
- | |____   ____ _ _ __ | | | |___ | |_| |_/ / __ ___ |/ ___
- |  __\ \ / / _` | '_ \| | | / _ \| __|  __/ '__/ _ \  / __|
- | |___\ V / (_| | | | | |/ / (_) | |_| |  | | | (_) | \__ \
- \____/ \_/ \__,_|_| |_|___/ \___/ \__\_|  |_|  \___/  |___/
+             _____     _ _              _     
+            |  ___|_ _| | | _____  _ __( )___ 
+            | |_ / _` | | |/ / _ \| '__|// __|
+            |  _| (_| | |   < (_) | |    \__ \
+            |_|  \__,_|_|_|\_\___/|_|    |___/
             _                              __ _
            (_)                            / _(_)
      __   ___ _ __ ___     ___ ___  _ __ | |_ _  __ _
@@ -21,8 +20,14 @@ Version 1.0.0 Created by Evan Coury
 
 ## Introduction
 
-This is the personal vim config of Evan Coury (aka EvanDotPro).
-After trying it for some time (and adapted it to fit my tastes), I decided it was worth to fork and adapt.
+This is my personal vim config. 
+Nearly all credit goes to Evan Coury (aka EvanDotPro) so prefer to use its 
+[Ultimate Vim Configuration](https://github.com/EvanDotPro/vim-configuration) rather than this one as it 
+integrates only a few changes to suit my tastes.
+
+Below are the initial text from Evan.  
+
+## Evan's notes
 
 Author: Evan Coury, http://blog.evan.pro/
 URL: https://github.com/EvanDotPro/vim-configuration
