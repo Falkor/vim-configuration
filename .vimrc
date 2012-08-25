@@ -38,6 +38,7 @@
     " }
 
     " Vundle {
+        filetype on  " bug fix http://tooky.co.uk/2010/04/08/there-was-a-problem-with-the-editor-vi-git-on-mac-os-x.html
         filetype off " Turned back on after loading bundles
         set rtp+=$VIMHOME/bundle/vundle
         call vundle#rc()
