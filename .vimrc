@@ -117,6 +117,7 @@
     set encoding=utf-8
     autocmd BufEnter * if bufname("") !~ "^\[A-Za-z0-9\]*://" | lcd %:p:h | endif
     autocmd VimEnter * execute "cd" fnameescape(g:startDir)
+"    autocmd VimEnter * execute "cd" fnameescape(g:startDir)
 
 " }
 
