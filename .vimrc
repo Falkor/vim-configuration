@@ -68,7 +68,7 @@
                 Bundle 'scrooloose/nerdtree', '4.2.0'
                 Bundle 'EvanDotPro/nerdtree-symlink'
                 "Bundle 'EvanDotPro/nerdtree-chmod'
-                Bundle 'myusuf3/numbers.vim'
+                " Bundle 'myusuf3/numbers.vim'
                 Bundle 'kien/ctrlp.vim'
                 Bundle 'Lokaltog/vim-powerline', 'develop'
                 Bundle 'L9', '1.1'
