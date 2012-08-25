@@ -146,6 +146,7 @@
     set cpoptions+=$               " cool trick to show what you're replacing
     set showmatch                  " show matching brackets/parenthesis
     set showcmd                    " show multi-key commands as you type
+    set nostartofline              " try to keep the cursor on the same column when whanging line
     set incsearch                  " find as you type search
     set hlsearch                   " highlight search terms
     set winminheight=0             " windows can be 0 line high
