@@ -1,6 +1,6 @@
 # My Vim Configuration (so-called 'Ultimate' by Evan Coury)
 
-Based on the Ultimate Vim Configuration Version 1.0.0 created by Evan Coury
+Based on the [Ultimate Vim Configuration](https://github.com/EvanDotPro/vim-configuration) Version 1.0.0 created by Evan Coury
 
 ```
              _____     _ _              _     
