@@ -116,7 +116,6 @@
     scriptencoding utf-8
     set encoding=utf-8
     autocmd BufEnter * if bufname("") !~ "^\[A-Za-z0-9\]*://" | lcd %:p:h | endif
-    autocmd VimEnter * execute "cd" fnameescape(g:startDir)
 "    autocmd VimEnter * execute "cd" fnameescape(g:startDir)
 
 " }
@@ -247,7 +246,7 @@
 
         let NERDTreeShowBookmarks=1
         let NERDTreeChDirMode=0
-        let NERDTreeQuitOnOpen=1
+        let NERDTreeQuitOnOpen=0
         let NERDTreeShowHidden=1
         let NERDTreeKeepTreeInNewTab=1
         let NERDTreeMinimalUI=1
